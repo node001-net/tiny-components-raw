@@ -1,0 +1,11 @@
+{
+  "name": "@tiny-components/raw",
+  "version": "0.1.0",
+  "description": "Component to show unescaped Html",
+  "repository": {
+    "type": "git",
+    "url": "git@gitea.node001.net:tiny-components/raw.git"
+  },
+  "author": "Björn Hase",
+  "license": "MIT"
+}
