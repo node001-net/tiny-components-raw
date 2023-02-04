@@ -2,7 +2,7 @@
 
 Component for not escaping Html. Thanks to [@GianlucaGuarini](https://github.com/GianlucaGuarini)
 
-Source: [https://gitea.node001.net/tiny-components/raw](https://gitea.node001.net/tiny-components/raw)
+Source: [https://gitea.node001.net/tiny-components/raw](https://gitea.node001.net/tiny-components/raw)  
 Mirror: [https://github.com/node001-net/tiny-components-raw](https://github.com/node001-net/tiny-components-raw)
 
 ## Installation
