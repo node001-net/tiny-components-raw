@@ -2,6 +2,8 @@
 
 Component for not escaping Html. Thanks to (@GianlucaGuarini)[https://github.com/GianlucaGuarini]
 
+Source: (https://gitea.node001.net/tiny-components/raw)[https://gitea.node001.net/tiny-components/raw]
+
 ## Installation
 
 Setup this registry in your project .npmrc file:
